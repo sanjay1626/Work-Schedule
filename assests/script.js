@@ -34,12 +34,16 @@ for(const property in DayTime) {
   let timeString = $(timeId).text();
   let timeNumber = hourNumberFromHourString(timeString);  
   if(timeNumber < presentHour) {
-    $(textEntry).addClass("past").text("Past Hour");
-    
+    $(textEntry).addClass("past");
+    $("<past>").text("Past Event")
+  
+  
   } else if (timeNumber > presentHour) {
     $(textEntry).addClass("future");
+    $(".future").text("Future Event")
   } else {
-    $(textEntry).addClass("present");
+    $(textEntry).addClass("present").text("Present Event");
+    
   }
   counter++;
 }
