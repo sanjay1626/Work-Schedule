@@ -26,7 +26,7 @@ This project emphasizes the use of using Javascript, jQuery & DOM to make dynami
 # This project has the following features:
 + A Work Schedule page
     - This will allow user to input notes or remiders
-    ![ScreenshotQuestions]()
+    ![ScreenshotQuestions](https://github.com/sanjay1626/Work-Schedule/blob/main/assests/User%20Input.jpg)
 + A Save Button
     - After user inputs data, user would be able to save data inputted
      ![Screenshotdisplay]()
