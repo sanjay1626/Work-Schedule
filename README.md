@@ -10,7 +10,7 @@ The user will be given a GUI showing a planner format, where in the user will be
 # Getting Started
 This project has been deployed to GitHub Pages. To get this project up and running, you can follow the deployment link.
    + [GitHub Respository](https://github.com/sanjay1626/Work-Schedule.git) 
-   + [Deployed GitHub IO]()
+   + [Deployed GitHub IO](https://sanjay1626.github.io/Work-Schedule/.)
 
 # Prerequisites
 To install this application, you will need a text editor. I recommend Visual Studio Code.
