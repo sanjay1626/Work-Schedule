@@ -21,7 +21,7 @@ To install this code, download the zip file, or use GitHub's guidelines to clone
 # Summary
 HTML, CSS, Javascript documents create a Work Schedule...
 This project emphasizes the use of using Javascript, jQuery & DOM to make dynamic changes to an HMTL document
-  ![ScreenshotIntro]()
+  ![ScreenshotIntro](https://github.com/sanjay1626/Work-Schedule/blob/main/assests/Intro.jpg)
 
 # This project has the following features:
 + A Work Schedule page
