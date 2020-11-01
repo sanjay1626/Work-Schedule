@@ -29,7 +29,7 @@ This project emphasizes the use of using Javascript, jQuery & DOM to make dynami
     ![ScreenshotQuestions](https://github.com/sanjay1626/Work-Schedule/blob/main/assests/User%20Input.jpg)
 + A Save Button
     - After user inputs data, user would be able to save data inputted
-     ![Screenshotdisplay]()
+     ![Screenshotdisplay](https://github.com/sanjay1626/Work-Schedule/blob/main/assests/saved%20input.jpg)
   
 # Languages
   + HTML
